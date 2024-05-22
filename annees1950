@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Années 1950 - Histoire de la Mode</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Histoire de la Mode</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="annees40.html">Années 1940</a></li>
+                <li><a href="quiz.html">Quiz</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>La Mode des Années 1950</h2>
+        <p>Les années 1950 ont vu un retour à des styles plus féminins et élégants après la guerre. Les robes étaient souvent à taille cintrée et les jupes évasées. Les tissus étaient colorés et les motifs variés.</p>
+        <img src="images/1950s-fashion.jpg" alt="Mode des années 1950">
+    </main>
+    <footer>
+        <p>&copy; 2024 Histoire de la Mode</p>
+    </footer>
+</body>
+</html>
