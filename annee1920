@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Années 1920 - Histoire de la Mode</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Histoire de la Mode</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="annees30.html">Années 1930</a></li>
+                <li><a href="quiz.html">Quiz</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>La Mode des Années 1920</h2>
+        <p>Les années 1920 ont été marquées par une libération des styles vestimentaires. Les robes sont devenues plus courtes, les cheveux étaient coupés en bobs et les accessoires comme les perles et les bandeaux étaient très populaires.</p>
+        <img src="images/1920s-fashion.jpg" alt="Mode des années 1920">
+    </main>
+    <footer>
+        <p>&copy; 2024 Histoire de la Mode</p>
+    </footer>
+</body>
+</html>
